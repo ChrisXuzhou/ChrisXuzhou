@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @ChrisXuzhou
+
+- Java/ Spring/ Springboot/ MySQL/ Redis/ Kafka/ Nginx/ Html/ Javascript/ Css/ Vue/ Swift/ SwiftUI/ Domain-Driven Design (DDD)
+  
 - Trying to be a fully capable software expert with a deep understanding of users and markets, capable of efficient and effective collaboration.
 
 - Having gained experience at a large tech company like Alibaba, I've cultivated a robust technical foundation, honed my teamwork skills for efficiency, and developed an intricate understanding of the technical infrastructure within a large and complex business environment.
