@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisXuzhou
 
-- Java/ Spring/ Springboot/ MySQL/ Redis/ Kafka/ Nginx/ Html/ Javascript/ Css/ Vue/ Swift/ SwiftUI/ Domain-Driven Design (DDD)
+- Java/ Spring/ Springboot/ MySQL/ Redis/ Kafka/ Nginx/ HTML/ Javascript/ CSS/ Vue/ Swift/ SwiftUI/ Domain-Driven Design (DDD)
   
 - Trying to be a fully capable software expert with a deep understanding of users and markets, capable of efficient and effective collaboration.
 
