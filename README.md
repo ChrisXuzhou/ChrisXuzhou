@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisXuzhou
 
-- Java/ Spring/ Springboot/ MySQL/ Redis/ Kafka/ Nginx/ HTML/ Javascript/ CSS/ Vue/ React/ Swift/ SwiftUI/ Domain-Driven Design (DDD)
+- Go | Java | JavaScript | React | Next.js | Node.js | Docker | K8s
   
 - Trying to be a fully capable software expert with a deep understanding of users and markets, capable of efficient and effective collaboration.
 
